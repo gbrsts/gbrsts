@@ -3,7 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=gbrsts&color=blueviolet)
 
 - 🔥 Junior Analist Developer
-- 🔭 Currently working at Central IT
 - 🎓 Bachelor in Computer Science at University Paulista
 - 🧑‍🎓 Student at University of Brasilia
 
