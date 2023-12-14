@@ -1,12 +1,13 @@
-<h1> Eae 🤘, Eu sou o Gabriel.</h1>
+<h1> What's up 🤘, i'm Gabriel.</h1>
 
 ![](https://komarev.com/ghpvc/?username=gbrsts&color=blueviolet)
 
-- 🔥 Analista Desenvolvedor Junior | Junior Analist Developer
-- 🎓 Bacharelado em Ciência da Computação na Universidade Paulista | Bachelor in Computer Science at University Paulista
-- 🧑‍🎓 Estudante na Universidade de Brasília | Student at University of Brasilia
+- 🔥 Software Engineer
+- 🔥 Junior Analist Developer
+- 🎓 Bachelor in Computer Science at University Paulista
+- 🧑‍🎓 Student at University of Brasilia
 
-<h3> Você pode interagir comigo a partir destes links a seguir, da uma olhada depois! </h3>
+<h3> You can interact with me by these links, check out later! </h3>
 
 <div align="center">
   <a href="(https://dev.to/gbrsts)"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"> </a>
@@ -20,7 +21,7 @@
   <a href="https://www.hackerrank.com/gbr_sts?hr_r=1"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"> </a>
 </div>
 
-<h3> Tenho conhecimento nos seguintes itens: </h3>
+<h3> I have knowledge on these itens: </h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
