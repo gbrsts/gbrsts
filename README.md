@@ -4,8 +4,8 @@
 
 - 🔥 Software Engineer
 - 🔥 Junior Analist Developer
-- 🎓 Bachelor in Computer Science at University Paulista
-- 🧑‍🎓 Student at University of Brasilia
+- 🎓 Bachelor in Computer Science at Universidade Paulista (UNIP)
+- 🧑‍🎓 Computation student at Universidade de Brasilia (UnB)
 
 <h3> You can interact with me by these links, check out later! </h3>
 
