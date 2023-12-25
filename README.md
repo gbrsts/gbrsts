@@ -1,27 +1,4 @@
-<h1> What's up 🤘, i'm Gabriel.</h1>
-
-![](https://komarev.com/ghpvc/?username=gbrsts&color=blueviolet)
-
-- 🔥 Software Engineer
-- 🔥 Junior Analist Developer
-- 🎓 Bachelor in Computer Science at Universidade Paulista (UNIP)
-- 🧑‍🎓 Computation student at Universidade de Brasilia (UnB)
-
-<h3> You can interact with me by these links, check out later! </h3>
-
-<div align="center">
-  <a href="(https://dev.to/gbrsts)"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"> </a>
-  <a href="https://www.reddit.com/user/gbrsts"> <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"> </a> 
-  <a href="https://stackoverflow.com/users/20786629/gabriel?tab=profile"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"> </a>
-  <a href=""> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> </a> 
-  <a href="https://open.spotify.com/user/wr7g09swm72eaw8vz5u682rg9?si=cc7e01ace71f4c45"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> </a> 
-  <a href="https://soundcloud.com/gbr0?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"> <img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"> </a> 
-  <a href="https://github.com/gbrsts"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> </a>
-  <a href="https://www.linkedin.com/in/gbrsts/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-  <a href="https://www.hackerrank.com/gbr_sts?hr_r=1"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"> </a>
-</div>
-
-<h3> I have knowledge on these itens: </h3>
+<h2> Hi there 🥷🏻</h2>
 
 <div align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -59,4 +36,5 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
   <img src="https://img.shields.io/badge/Argo%20CD-1e0b3e?style=for-the-badge&logo=argo&logoColor=#d16044">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div>
